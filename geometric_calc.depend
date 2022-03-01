@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1646159970 source:/home/hassan/School/Structured Programming/geometric_calc/main.c
+	<stdio.h>
+	<stdlib.h>
+
